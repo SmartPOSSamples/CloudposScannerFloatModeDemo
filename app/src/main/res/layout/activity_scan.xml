@@ -18,7 +18,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
-            android:text="摄像头"/>
+            android:text="camera"/>
 
         <Button
             android:id="@+id/changeindicator"
@@ -26,7 +26,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
-            android:text="指示灯"/>
+            android:text="indicator"/>
 
         <Button
             android:id="@+id/changeflashlight"
@@ -34,7 +34,7 @@
             android:layout_weight="1"
             android:layout_height="wrap_content"
             android:layout_gravity="center_vertical"
-            android:text="闪光灯"/>
+            android:text="flashlight"/>
 
     </LinearLayout>
 
