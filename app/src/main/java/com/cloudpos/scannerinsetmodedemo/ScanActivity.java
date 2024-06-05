@@ -172,7 +172,7 @@ public class ScanActivity extends Activity implements IAIDLListener, View.OnClic
         }
         super.onDestroy();
     }
-    private IScanService scanService; //扫码服务
+    private IScanService scanService; //Scan code service
 
     private ServiceConnection scanConn;
 
